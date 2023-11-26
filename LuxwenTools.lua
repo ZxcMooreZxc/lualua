@@ -1,4 +1,5 @@
 script_author('AndreyMoore')
+script_version(1.0)
 require 'lib.moonloader'
 local imgui = require 'imgui'
 local encoding = require "encoding"
